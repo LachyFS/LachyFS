@@ -1,26 +1,27 @@
 # Hey, I'm Lachlan
 
-Software engineer in Sydney. I build developer tools, VS Code extensions, and performance-critical graphics libraries.
+Software engineer in Sydney. I like building tools that stay close to the file system and libraries where every microsecond counts.
 
-## Projects
+[![Website](https://img.shields.io/badge/lachlan.cool-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://lachlan.cool) [![GitHub](https://img.shields.io/badge/@LachyFS-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/LachyFS) [![X](https://img.shields.io/badge/@lachyfs-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/lachyfs)
 
-### [kanban-markdown](https://github.com/LachyFS/kanban-markdown-vscode-extension) &nbsp; ![Installs](https://img.shields.io/open-vsx/dt/LachyFS/kanban-markdown?label=installs&color=red) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat)
+#### Performance libraries
 
-A kanban board that lives in your codebase. Features are stored as markdown files with YAML frontmatter — no SaaS, no syncing, just files in your repo. Works in VS Code and Cursor.
+**[urath](https://github.com/LachyFS/urath)** &nbsp; ![crates.io](https://img.shields.io/crates/v/urath?style=flat-square&color=0a0a0a) ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-0a0a0a?style=flat-square&logo=webassembly&logoColor=white)
+<br>Voxel meshing in Rust → WASM. Greedy meshing and surface nets with zero-copy buffer transfers to Three.js via web workers.
 
-### [urath](https://github.com/LachyFS/urath) &nbsp; ![crates.io](https://img.shields.io/crates/v/urath?style=flat&color=blue) ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&style=flat) ![WebAssembly](https://img.shields.io/badge/-WASM-654ff0?logo=webassembly&logoColor=white&style=flat)
+#### Developer tools
 
+**[kanban-markdown](https://github.com/LachyFS/kanban-markdown-vscode-extension)** &nbsp; ![Installs](https://img.shields.io/open-vsx/dt/LachyFS/kanban-markdown?label=installs&color=0a0a0a&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
+<br>Kanban boards backed by markdown files with YAML frontmatter. No SaaS, no syncing — just files in your repo. Works in VS Code and Cursor.
 
-High-performance voxel meshing library. Greedy meshing and surface nets algorithms written in Rust, compiled to WebAssembly, with a TypeScript wrapper for Three.js. Zero-copy buffer transfers via web workers.
+**[pixel-art-editor](https://github.com/LachyFS/pixel-art-editor-vscode-extension)** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
+<br>Create and edit sprites without leaving your editor.
 
-### [awesome-nsw-open-data](https://github.com/LachyFS/awesome-nsw-open-data) &nbsp; ![CC0](https://img.shields.io/badge/license-CC0-green?style=flat)
+#### Data & visualisation
 
-A curated catalog of 22,000+ NSW government datasets, APIs, and hidden data gems — transport APIs, property sales, crime stats, pokies losses, and more.
+**[awesome-nsw-open-data](https://github.com/LachyFS/awesome-nsw-open-data)** &nbsp; ![CC0](https://img.shields.io/badge/license-CC0-0a0a0a?style=flat-square)
+<br>Curated catalog of 22,000+ NSW government datasets — transport APIs, property sales, crime stats, and more.
 
-### [git-radar](https://github.com/LachyFS/git-radar) &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat)
+**[git-radar](https://github.com/LachyFS/git-radar)** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
+<br>Visualise git activity across your repos. Live at [gitradar.lachlan.cool](https://gitradar.lachlan.cool).
 
-Visualise git activity across your repos. Live at [gitradar.lachlan.cool](https://gitradar.lachlan.cool).
-
----
-
-<sub>[@LachyFS](https://github.com/LachyFS) · [lachlan.cool](https://lachlan.cool)</sub>
