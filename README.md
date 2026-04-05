@@ -1,7 +1,5 @@
 # Hey, I'm Lachlan
 
-Software engineer in Sydney. I like building tools that stay close to the file system and libraries where every microsecond counts.
-
 [![Website](https://img.shields.io/badge/lachlan.cool-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://lachlan.cool) [![GitHub](https://img.shields.io/badge/@LachyFS-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/LachyFS) [![X](https://img.shields.io/badge/@lachyfs-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/lachyfs)
 
 #### Performance libraries
