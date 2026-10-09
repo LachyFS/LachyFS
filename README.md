@@ -5,7 +5,7 @@
 #### Developer tools
 
 **[kanban-markdown](https://github.com/LachyFS/kanban-markdown-vscode-extension)** &nbsp; ![Installs](https://img.shields.io/open-vsx/dt/LachyFS/kanban-markdown?label=installs&color=0a0a0a&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
-<br>Kanban boards backed by markdown files with YAML frontmatter. No SaaS, no syncing — just files in your repo. Works in VS Code and Cursor.
+<br>Kanban boards backed by markdown files with YAML frontmatter. No SaaS or syncing. Just files in your repo. Works in VS Code and Cursor.
 
 #### Creative tools
 
