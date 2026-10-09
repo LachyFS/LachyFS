@@ -2,6 +2,14 @@
 
 [![Website](https://img.shields.io/badge/lachlan.cool-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://lachlan.cool) [![GitHub](https://img.shields.io/badge/@LachyFS-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/LachyFS) [![X](https://img.shields.io/badge/@lachyfs-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/lachyfs)
 
+#### Creative tools
+
+**[forma](https://github.com/LachyFS/forma)** &nbsp; ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
+<br>Native 3D geometry editor built with Rust and GPUI. Direct mesh editing and a progressive path-traced viewport on macOS, Windows, and Linux.
+
+**[magpie](https://github.com/LachyFS/magpie)** &nbsp; ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
+<br>Native mood board built with Rust and GPUI. Collect and arrange images on an infinite canvas, with boards saved locally.
+
 #### Performance libraries
 
 **[urath](https://github.com/LachyFS/urath)** &nbsp; ![crates.io](https://img.shields.io/crates/v/urath?style=flat-square&color=0a0a0a) ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-0a0a0a?style=flat-square&logo=webassembly&logoColor=white)
