@@ -9,4 +9,4 @@
 <br>Native 3D geometry editor built with Rust and GPUI. Direct mesh editing and a progressive path-traced viewport on macOS, Windows, and Linux.
 
 <img src="https://raw.githubusercontent.com/LachyFS/magpie/main/assets/magpie-256.png" width="20" height="20" alt="magpie logo" align="middle"> &nbsp; **[magpie](https://github.com/LachyFS/magpie)** &nbsp; ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
-<br>Native mood board built with Rust and GPUI. Collect and arrange images on an infinite canvas, with boards saved locally.
+<br>Native mood board for collecting and arranging images on an infinite canvas. Boards save locally.
